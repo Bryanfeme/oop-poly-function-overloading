@@ -27,13 +27,13 @@ public:
      * Add method
      * @param paramX
      * @param paramY
-     * @return the addition of paramX plus paramY
+     * @return the addition of paramX plus paramY(sumatoria)
      */
     int add(int paramX, int paramY);
 
     /**
      * Function overloading
-     * @return a fixed number
+     * @return a fixed number(retorna numero fijo)
      */
     int add();
 };
